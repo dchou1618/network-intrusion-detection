@@ -1,0 +1,35 @@
+// Articles Anomaly Detection NID
+digraph {
+	graph [fontsize=20 size="20,20"]
+layout=circo
+	0 [label="An efficient network intrusion detection"]
+	1 [label="Sampling Techniques to Accelerate Pattern Matching in Network Intrusion Detection Systems"]
+	0 -> 1
+	1 [label="Sampling Techniques to Accelerate Pattern Matching in Network Intrusion Detection Systems"]
+	2 [label="Network Intrusion Detection Based on LDA for Payload Feature Selection"]
+	1 -> 2
+	2 [label="Network Intrusion Detection Based on LDA for Payload Feature Selection"]
+	3 [label="Inductive Intrusion Detection in Flow-Based Network Data using One-Class Support Vector Machines"]
+	2 -> 3
+	3 [label="Inductive Intrusion Detection in Flow-Based Network Data using One-Class Support Vector Machines"]
+	4 [label="Incremental SVM based on reserved set for network intrusion detection"]
+	3 -> 4
+	4 [label="Incremental SVM based on reserved set for network intrusion detection"]
+	5 [label="MIDeA- A Multi-Parallel Intrusion Detection Architecture"]
+	4 -> 5
+	5 [label="MIDeA- A Multi-Parallel Intrusion Detection Architecture"]
+	6 [label="An Effective Feature Selection Approach for Network Intrusion Detection"]
+	5 -> 6
+	6 [label="An Effective Feature Selection Approach for Network Intrusion Detection"]
+	7 [label="Machine-Learning-Based Feature Selection Techniques for LargeScale Network Intrusion Detection"]
+	6 -> 7
+	7 [label="Machine-Learning-Based Feature Selection Techniques for LargeScale Network Intrusion Detection"]
+	8 [label="R1SVM- A Randomised Nonlinear Approach to Large-Scale Anomaly Detection"]
+	7 -> 8
+	8 [label="R1SVM- A Randomised Nonlinear Approach to Large-Scale Anomaly Detection"]
+	9 [label="Design Consideration of Network Intrusion Detection System using Hadoop and GPGPU"]
+	8 -> 9
+	9 [label="Design Consideration of Network Intrusion Detection System using Hadoop and GPGPU"]
+	10 [label="Improving network intrusion detection system performance through quality of service configuration and parallel technology"]
+	9 -> 10
+}
