@@ -6,6 +6,7 @@ What's contained
 - Graph visualization
 - Similarities between research areas and phrases with n-grams
 - Entropy in datasets
+- Some topic modeling LDA
 
 Arxiv
 - https://arxiv.org/abs/2009.07352
