@@ -1,4 +1,4 @@
-# Data-Driven Network Intrusion Detection: A Taxonomy of Challenges and Methods
+# A Survey on Data-Driven Network Intrusion Detection
 Inspection of notable intrusion detection datasets
 
 What's contained
